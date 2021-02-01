@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Deep Shah</string>
+    <string name="address">Charusat University</string>
+    <string name="dob">Date of Birth: 13 Oct 2000</string>
+    <string name="mobile">Mobile No: +91 63551 04482</string>
+    <string name="email">Email: deepshah131000@gmail.com</string>
+    <string name="id">ID No: 18IT117</string>
+    <string name="blood">Blood Group: A+</string>
+    <string name="image"></string>
+    <string name="area">Area of Interest: App Development, Networking, Database Management,
+        Programming in C++</string>
+</resources>
