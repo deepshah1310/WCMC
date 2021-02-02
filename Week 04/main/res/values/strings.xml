@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="string1">Number 1</string>
+    <string name="string2">Number 2</string>
+    <string name="Addition">Addition</string>
+    <string name="num1"></string>
+    <string name="num2"></string>
+    <string name="string3">Add</string>
+</resources>
